@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 import smtplib
 
-my_email = "m_stocker79@hotmail.com"
-password = "Goku7986@"
+my_email = "*****************"
+password = "*********"
 
 
 
